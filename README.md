@@ -9,14 +9,13 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
 
 1. GNOME: <br>
 
-![GNOME(2)](https://github.com/user-attachments/assets/26b9547f-5a2c-48fc-960d-a88a10efb869)
 <table>
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/26b9547f-5a2c-48fc-960d-a88a10efb869" alt="Image 1" width="300">
     </td>
     <td>
-      <img src="https://example.com/path/to/image2.png" alt="Image 2" width="300">
+      <img src="https://github.com/user-attachments/assets/4039856c-2e53-4e63-adfa-aad635e3af10" alt="Image 2" width="300">
     </td>
   </tr>
 </table>

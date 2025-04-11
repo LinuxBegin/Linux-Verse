@@ -18,6 +18,6 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
       <img src="https://github.com/user-attachments/assets/4039856c-2e53-4e63-adfa-aad635e3af10" alt="Image 2" width="300">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/4039856c-2e53-4e63-adfa-aad635e3af10" alt="Image 2" width="300">
+      <img src="https://github.com/user-attachments/assets/37328a65-7de6-49ee-b524-1fe94bae97e5" alt="Image 3" width="300">
   </tr>
 </table>

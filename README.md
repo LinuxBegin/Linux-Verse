@@ -8,4 +8,15 @@ It's not really an OS but a Kernel. Now what's that? it's the base software used
 It's the GUI (Graphical User Interface) of an OS. In other words the thing that allows you to see your mouse, wallpaper and apps. Windows and MacOS use proprietary DEs, but Linux distros don't. Every Linux DE is completely open-source meaning you can use the one you Like on any distro. Here are Some of the Best ones: 
 
 1. GNOME: <br>
+
 ![GNOME(2)](https://github.com/user-attachments/assets/26b9547f-5a2c-48fc-960d-a88a10efb869)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/26b9547f-5a2c-48fc-960d-a88a10efb869" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://example.com/path/to/image2.png" alt="Image 2" width="300">
+    </td>
+  </tr>
+</table>

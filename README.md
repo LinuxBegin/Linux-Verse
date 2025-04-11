@@ -21,3 +21,55 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
       <img src="https://github.com/user-attachments/assets/37328a65-7de6-49ee-b524-1fe94bae97e5" alt="Image 3" width="300">
   </tr>
 </table>
+
+2. KDE Plasma: <br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/909c624c-58b1-4235-8b88-749b78821092" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/901df6ad-762b-4510-853f-10b6bbfaeb27" alt="Image 2" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0849cdfe-8173-43c9-950c-4eae9d95d979" alt="Image 3" width="300">
+  </tr>
+</table>
+
+3. Cinnamon: <br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/03e577bd-d5cd-4de7-b9d4-73db556654b0" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/08f16754-2558-4dd8-8c05-a4096c08424d" alt="Image 2" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/36932dc2-7097-42d1-b1c3-e39170ce13a6" alt="Image 3" width="300">
+  </tr>
+</table>
+
+4. Xfce:- <br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9bffab4b-d205-469c-b297-29ba9cd341a0" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fc6fdca4-904a-4fd8-8709-382622c2d02f" alt="Image 2" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/595ba778-dab3-41e9-be05-7627e85ec54c" alt="Image 3" width="300">
+  </tr>
+</table>
+
+5. MATE:- <br>
+
+
+
+
+

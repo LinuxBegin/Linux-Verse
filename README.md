@@ -17,5 +17,7 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
     <td>
       <img src="https://github.com/user-attachments/assets/4039856c-2e53-4e63-adfa-aad635e3af10" alt="Image 2" width="300">
     </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4039856c-2e53-4e63-adfa-aad635e3af10" alt="Image 2" width="300">
   </tr>
 </table>

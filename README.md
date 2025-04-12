@@ -69,6 +69,59 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
 
 5. MATE:- <br>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a23e3ce9-1a4d-4dfb-b2e5-92e57ef5ec05" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/facd427f-803a-44f3-b975-f2992131d757" alt="Image 2" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0f28b2c4-a77b-4f31-875f-cd0d0d519aac" alt="Image 3" width="300">
+  </tr>
+</table>
+
+6. Budgie:- <br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/13bb4a76-a789-4935-a164-ba5930d185bc" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f05b81e6-db1e-4a48-b8da-ad5b4a9a5c10" alt="Image 2" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c6f1ac8f-0601-4762-9816-e6799af003d9" alt="Image 3" width="300">
+  </tr>
+</table>
+
+7. Deepin:- <br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/48107447-bae7-4d56-9d8b-51bc11d38a8e" alt="Image 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/36607c5e-af0d-45c0-88b6-2ee593248af0" alt="Image 2" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0847ec20-68c0-469f-a062-d449a45c84ff" alt="Image 3" width="300">
+  </tr>
+</table>
+Here's a [preview](https://www.youtube.com/watch?v=N1fmzR4ersE)
+
+
+
+
+
+
+
+
+
+
 
 
 

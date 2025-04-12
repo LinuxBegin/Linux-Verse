@@ -129,7 +129,7 @@ sudo apt update # to update apps
 sudo apt remove # to remove an app
 ```
 `.deb` is just a file format used by applications to be installed. Here are two ways to run `.deb` files: <br>
-a) Open it via the Software Centre of your distro or
+a) Open it via the Software Centre of your distro or <br>
 b) Run it via the Terminal: <br>
    1. locate where the file is installed, then right-click in the folder and choose the `"Open terminal Here"` option
    2. Then run it like this:

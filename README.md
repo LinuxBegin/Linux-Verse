@@ -121,7 +121,21 @@ There are three different families a typical distro belongs to and these are: Ub
 # 3. Package Management:
 Each family has its own set of commands and come with there own file formats for every application `(similar to how Windows uses the file format .exe)` and are often called `Native Packages`. However in the Recent years there are Universal Package Managers too. These, `as the name suggests`, have a universal file format and a universal command. In this, there are three different types too. Here's the Complete guide on this Topic:
 
-# Native Package Managers of Ubuntu-Debian Family
+# Native Package Managers of Ubuntu-Debian Family:
+Any distro that belongs to this category will use the `.deb` file format and the `apt` command. With the `apt` command you can perform a number of tasks that are usually performed by the Software Centre: 
+```
+sudo apt install # to install an app
+sudo apt update # to update apps
+sudo apt remove # to remove an app
+```
+`.deb` is just a file format used by applications to be installed. Here are two ways to run `.deb` files: <br>
+a) Open it via the Software Centre of your distro or
+b) Run it via the Terminal: <br>
+   1. locate where the file is installed, then right-click in the folder and choose the `"Open terminal Here"` option
+   2. Then run it like this:
+   ```
+   sudo dpkg -i package.deb # replace package.deb with the name of your package
+   ```
 
 
 

@@ -111,7 +111,8 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
       <img src="https://github.com/user-attachments/assets/0847ec20-68c0-469f-a062-d449a45c84ff" alt="Image 3" width="300">
   </tr>
 </table>
-Here's a [preview](https://www.youtube.com/watch?v=N1fmzR4ersE)
+
+Here's a [Preview](https://www.youtube.com/watch?v=N1fmzR4ersE)
 
 
 

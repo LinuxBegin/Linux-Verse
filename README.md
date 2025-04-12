@@ -114,7 +114,14 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
 
 Here's a [Preview](https://www.youtube.com/watch?v=N1fmzR4ersE)
 
+# 2. Family Tree / Category:
+There are three different families a typical distro belongs to and these are: Ubuntu-Debian Family, Fedora-Red Hat Family and Arch-Gentoo family. 
+`NOTE: Ubuntu, Debian, Fedora, Red Hat, Arch and Gentoo are distros too`
 
+# 3. Package Management:
+Each family has its own set of commands and come with there own file formats for every application `(similar to how Windows uses the file format .exe)` and are often called `Native Packages`. However in the Recent years there are Universal Package Managers too. These, `as the name suggests`, have a universal file format and a universal command. In this, there are three different types too. Here's the Complete guide on this Topic:
+
+# Native Package Managers of Ubuntu-Debian Family
 
 
 

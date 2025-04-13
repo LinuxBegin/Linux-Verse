@@ -115,7 +115,7 @@ It's the GUI (Graphical User Interface) of an OS. In other words the thing that 
 Here's a [Preview](https://www.youtube.com/watch?v=N1fmzR4ersE)
 
 # 2. Family Tree / Category:
-There are three different families a typical distro belongs to and these are: Ubuntu-Debian Family, Fedora-Red Hat Family and Arch-Gentoo family. 
+There are three different families and a typical distro will belong to any one and these are: Ubuntu-Debian Family, Fedora-Red Hat Family and Arch-Gentoo family. 
 `NOTE: Ubuntu, Debian, Fedora, Red Hat, Arch and Gentoo are distros too`
 
 # 3. Package Management:
@@ -124,12 +124,14 @@ Each family has its own set of commands and come with there own file formats for
 # Native Package Managers of Ubuntu-Debian Family:
 Any distro that belongs to this category will use the `.deb` file format and the `apt` command. With the `apt` command you can perform a number of tasks that are usually performed by the Software Centre: 
 ```
-sudo apt install # to install an app
+sudo apt install # to install an app from the available reposotory
 sudo apt update # to update apps
 sudo apt remove # to remove an app
 ```
-Though you could use the app center for most of your apps, you might want to use this method in case the app you're looking for is not in the app center but available on the web: <br> 
+NOTE: If you see the error `package not found` then it means the app you are looking for is either no longer maintained or uses it's own repository. These can be found by looking into the official site or asking ChatGPT to search the web for it.
 
+
+Though you could use the app center for most of your apps, you might want to use this method in case the app you're looking for is not in the app center but available on the web: <br> 
 a) Install the app you want in the `.deb ` format and open it via the Software Centre of your distro or <br>
 b) Run it via the Terminal: <br>
    1. locate where the file is installed, then right-click in the folder and choose the `"Open terminal Here"` option
@@ -139,11 +141,29 @@ b) Run it via the Terminal: <br>
    ```
 I've already mentioned the method for removing a .deb file, `sudo apt remove packagename`. However if you are unable to find the correct name stored you can type `dpkg --list` in the terminal and it will show every package installed, by the way they are in Aplhabetical order.
 
+# Package Mangement in Fedora-Red hat Family:
+Such distros use the `.rpm` file format and the `dnf` command which again can be used to perform a number of tasks, for example:
+```
+sudo dnf update # to update
+sudo dnf install # to install packages or dependencies from the native repository
+```
 
+Now to install apps you can either search the app center or use the `.rpm` file of your app and run it in two ways: <br>
+   1) Via the app center <br>
+   2) Via the Terminal like this: 
+      ```
+      sudo dnf install ./package.rpm # replace "package.rpm" with the actual package name
+      ```
 
+NOTE: Whilst using the `sudo dnf install command` you face an error that says `package not found` you can either search the web for it's new repo or enable the `Copr Repository`. These are community maintained repos of apps or commands or packages or dependencies that no longer exist and each comes with their own specific Copr repo. However if you wish to install these without adding a copr repo for each manually you can do the following:
+```
+sudo dnf install \
+  https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 
-
-
+sudo dnf install \
+  https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+```
+If your app, package, or dependencies is available in these it will be installed automatically.
 
 
 

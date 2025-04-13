@@ -132,6 +132,7 @@ NOTE: If you see the error `package not found` then it means the app you are loo
 
 
 Though you could use the app center for most of your apps, you might want to use this method in case the app you're looking for is not in the app center but available on the web: <br> 
+
 a) Install the app you want in the `.deb ` format and open it via the Software Centre of your distro or <br>
 b) Run it via the Terminal: <br>
    1. locate where the file is installed, then right-click in the folder and choose the `"Open terminal Here"` option

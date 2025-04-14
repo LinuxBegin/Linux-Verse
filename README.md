@@ -156,7 +156,7 @@ Now to install apps you can either search the app center or use the `.rpm` file 
       sudo dnf install ./package.rpm # replace "package.rpm" with the actual package name
       ```
 
-NOTE: Whilst using the `sudo dnf install command` you face an error that says `package not found` you can either search the web for it's new repo or enable the `Copr Repository`. These are community maintained repos of apps or commands or packages or dependencies that no longer exist and each comes with their own specific Copr repo. However if you wish to install these without adding a copr repo for each manually you can do the following:
+NOTE: Whilst using the `sudo dnf install command` you face an error that says `package not found` you can either search the web for it's new repo or enable the `Copr Repository`. These are community maintained repos of apps or commands or packages or dependencies that no longer exist and each comes with their own specific Copr repo. However if you wish to install them without adding a copr repo for each manually you can do the following:
 ```
 sudo dnf install \
   https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
@@ -164,7 +164,38 @@ sudo dnf install \
 sudo dnf install \
   https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
-If your app, package, or dependencies is available in these it will be installed automatically.
+If your app, package, or dependencies is available in these it will be installed automatically by typing `sudo dnf install webkit # just an example`
+
+To remove apps installed via the terminal or through the `.rpm` file format:
+```
+sudo dnf remove package # replace 'package' with the actual name of the app or package you want to delete
+```
+NOTE: If you are unable to find the correct name, do the following because unlike ubuntu there's no easy command: <br>
+1) Open the file explorer
+2) Go to the Home tab and press Ctrl + H. This will list hidden files and folders
+3) now open the `.bashrc` file and add this to the last line:
+   ```
+   alias list--package="rpm -qa"
+   ```
+4) Lastly open the terminal and type this new command `list--package` and it will list every single package. To Find your specific package use the grep command like this:
+   ```
+   list--package | grep chrome # just an example, you can replace chrome with the first name of your desired app or package 
+   ```
+
+# Package Management for Arch-Gentoo Family:
+Sorry i don't currently have a guide on this.
+
+# Universal Package Management:
+There are three universal packages: Snaps, Flatpaks and Appimages. To Know more about them click on the following Links: <br>
+[Snaps](https://www.youtube.com/watch?v=xOSe3n6vkZ4)
+[Flatpaks](https://www.youtube.com/watch?v=IG2wTCacEtQ&t=139s)
+[Appimages](https://www.youtube.com/watch?v=w9TbSqahpSs&t=523s)
+
+# Best Linux Distros:
+Here are some of the best Linux Distros, each with a comprehensive Intro. I will provide the Links to the respective websites and downloads page.
+
+# 1. Linux Mint:
+The Most beginner friendly distro that belongs to the Ubuntu-Debian Family. It's based on the latest releases of Ubuntu and therefore has long term support. It comes with it's own desktop enviroment "Cinnamon" that is also available for other Linux Oses. It uses the Linux Kernel 6.8 which support Gen 6 - Gen 11 Computers. It could work on anything beyond but the results are unreliable. It comes in three different editions: Cinnamon, Xfce and MATE. Being Linux you have the option to use the latest kernels by installing them through this [app](https://github.com/bkw777/mainline). Here's the [Webpage](https://linuxmint.com/). Overall it's amazing if you are new to Linux as when you install apps through the `.deb` package format its automatically linked to the App Center allowing you to delete the app you want by right-clicking
 
 
 

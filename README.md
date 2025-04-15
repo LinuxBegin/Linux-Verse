@@ -194,9 +194,11 @@ There are three universal packages: Snaps, Flatpaks and Appimages. To Know more 
 # Best Linux Distros:
 Here are some of the best Linux Distros, each with a comprehensive Intro. I will provide the Links to the respective websites and downloads page.
 
-# 1. Linux Mint:
-The Most beginner friendly distro that belongs to the Ubuntu-Debian Family. It's based on the latest releases of Ubuntu and therefore has long term support. It comes with it's own desktop enviroment "Cinnamon" that is also available for other Linux Oses. It uses the Linux Kernel 6.8 which support Gen 6 and Beyond with quite ease. It comes in three different editions: Cinnamon, Xfce and MATE. Being Linux you have the option to use the latest kernels by installing them through this [app](https://github.com/bkw777/mainline). Here's the [Webpage](https://linuxmint.com/). Overall it's amazing if you are new to Linux as when you install apps through the `.deb` package format its automatically linked to the App Center allowing you to delete the app you want by right-clicking
+# 1. Zorin OS:
+It's the best and the most user-friendly Linux distro available. It has buit-in support for several Windows apps and minimizes the need for a terminal, everything is done via the GUI (Graphical User Interface) and is therefore the only OS made primarily to act as an Alternative for windows 10. It also belongs to the Ubuntu-Debian family and comes in two editions: Zorin OS core (Free) and Zorin OS Pro (Non-free) for which you have to pay. To Know more here's the [Website](https://zorin.com/os/). If you are someone who just wants an alternative to windows, Zorin is an Excellent choice. Another thing to mention is that it uses the GNOME desktop enviroment.
 
+# 2. Linux Mint:
+The Most beginner friendly distro that belongs to the Ubuntu-Debian Family. It's based on the latest releases of Ubuntu and therefore has long term support. It comes with it's own desktop enviroment "Cinnamon" that is also available for other Linux Oses. It comes in three different editions: Cinnamon, Xfce and MATE. Being Linux you have the option to use the latest kernels by installing them through this [app](https://github.com/bkw777/mainline). Here's the [Webpage](https://linuxmint.com/). Overall it's amazing if you are new to Linux as when you install apps through the `.deb` package format its automatically linked to the App Center allowing you to delete the app you want by right-clicking
 
 
 

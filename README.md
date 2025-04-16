@@ -200,6 +200,8 @@ It's the best and the most user-friendly Linux distro available. It has buit-in 
 # 2. Linux Mint:
 The Most beginner friendly distro that belongs to the Ubuntu-Debian Family. It's based on the latest releases of Ubuntu and therefore has long term support. It comes with it's own desktop enviroment "Cinnamon" that is also available for other Linux Oses. It comes in three different editions: Cinnamon, Xfce and MATE. Being Linux you have the option to use the latest kernels by installing them through this [app](https://github.com/bkw777/mainline). Here's the [Webpage](https://linuxmint.com/). Overall it's amazing if you are new to Linux as when you install apps through the `.deb` package format its automatically linked to the App Center allowing you to delete the app you want by right-clicking
 
+# 3. Ubuntu:
+Yes! the base distro itself is pretty amazing. Very user-friendly with the latest apps and technology. It's best use case is in Servers or for advanced programming and Arduino Projects. This is not because it uses some special edition or version of the Arduino IDE rather just broader hardware support and much more refined compatibility alongside longevity. By default it uses the latest version of GNOME DE but comes in different "Flavours", basically the same OS but with diffrent pre-configured and slightly changed DEs. It uses Snap packages because the Company behind it, Canonical, are the people who develop and Maintain it. Another remarkable feature is that it's Enterprise grade, so you can expect proper security and documentation on key issues. Here's the [Website](https://ubuntu.com/)
 
 
 

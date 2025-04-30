@@ -191,6 +191,14 @@ There are three universal packages: Snaps, Flatpaks and Appimages. To Know more 
 [Flatpaks](https://www.youtube.com/watch?v=IG2wTCacEtQ&t=139s)
 [Appimages](https://www.youtube.com/watch?v=w9TbSqahpSs&t=523s)
 
+# Additional tips: <br>
+1. If you don't want to use the terminal for native package managers, you can use their GUI versions instead and these are:<br>
+   a) dnfdragora (Fedora-based)<br>
+   b) synaptic (Ubuntu-based)<br>
+   c) Pacman gui (Arch-based)<br>
+
+2. Kernel versions really Matter! any version above 6.2 can generally support 12 gen PCs but may result in unreliable performance. Moreover the logevity of your PC may also be affected. If you have the latest hardware (Gen 10 - Gen 14) i suggest using the latest kernel. For older hardware version 6.8 and above (below 6.14) tend to work flawlessly without any issue.
+
 # Best Linux Distros:
 Here are some of the best Linux Distros, each with a comprehensive Intro. I will provide the Links to the respective websites and downloads page.
 
@@ -203,5 +211,8 @@ The Most beginner friendly distro that belongs to the Ubuntu-Debian Family. It's
 # 3. Ubuntu:
 Yes! the base distro itself is pretty amazing. Very user-friendly with the latest apps and technology. It's best use case is in Servers or for advanced programming and Arduino Projects. This is not because it uses some special edition or version of the Arduino IDE rather just broader hardware support and much more refined compatibility alongside longevity. By default it uses the latest version of GNOME DE but comes in different "Flavours", basically the same OS but with diffrent pre-configured and slightly changed DEs. It uses Snap packages because the Company behind it, Canonical, are the people who develop and Maintain it. Another remarkable feature is that it's Enterprise grade, so you can expect proper security and documentation on key issues. Here's the [Website](https://ubuntu.com/)
 
+# 4. Archcraft:
+Archcraft is Arch Linux made easy. It's blazing fast, highly pre-customised and very beginner-friendly despite belonging to a category that is the most bare bones. However i would generally not recommend it to complete beginners, but otherwise pretty excellent. It's free edition has over 15 pre-configured desktop layouts to choose from and has over 15 premium editions with even bigger number of styles, all pre-configured. Here's the [Webpage](https://archcraft.io/) 
 
-
+# 5. OpenSUSE:
+Another great distribution for programmers based on Fedora. It uses the `zypper` command instead of the traditional `dnf` command. Way more stable, easy-to-use, and better for budget and high-end PCs. However i would only recommend it for sysadmin and Web developers as it does not support Raspberry Pi and often a time require you to be comfortable with the terminal. It comes in two different editions: Leap(stable) and Tumbleweeb(Rolling-release) giving you the flexibility for a range of Hardware as compared to Ubuntu. Here's the [Webpage](https://www.opensuse.org/).

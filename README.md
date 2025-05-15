@@ -216,3 +216,6 @@ Archcraft is Arch Linux made easy. It's blazing fast, highly pre-customised and 
 
 # 5. OpenSUSE:
 Another great distribution for programmers based on Fedora. It uses the `zypper` command instead of the traditional `dnf` command. Way more stable, easy-to-use, and better for budget and high-end PCs. However i would only recommend it for sysadmin and Web developers as it does not support Raspberry Pi and often a time require you to be comfortable with the terminal. It comes in two different editions: Leap(stable) and Tumbleweeb(Rolling-release) giving you the flexibility for a range of Hardware as compared to Ubuntu. Here's the [Webpage](https://www.opensuse.org/).
+
+# **6. Ultramarine Linux**: 
+Another great Distro built to assist those accustomed to Ubuntu-Debian Based systems. It's pretty easy-to-use, Fast and has much more variety of apps thanks to pre-setup RPM Fusion Repositories. Highly inspired by various Anime Styles and best for tech buisnessmen and Companies. A stable rolling-release distro that's also highly customizable. Comes in three different editions: Flagship (Budgie), GNOME and KDE Plasma
